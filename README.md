@@ -1,3 +1,4 @@
 # README
 
-My first readme
+My first readme<br />
+**Git is such an amazing tool**
